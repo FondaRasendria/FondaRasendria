@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **kotlin, java, and C#**
 
-- 📫 How to reach me **mfondarasendria@gmail.com**
+- 📫 How to reach me **fonfarasendria@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
